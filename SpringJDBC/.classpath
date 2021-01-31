@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/DRIVER-SOFTWARES/spring-dao-2.0.8.jar"/>
+	<classpathentry kind="lib" path="D:/DRIVER-SOFTWARES/commons-logging-1.2 (1).jar"/>
+	<classpathentry kind="lib" path="D:/DRIVER-SOFTWARES/mysql-connector-java-8.0.23.jar"/>
+	<classpathentry kind="lib" path="D:/DRIVER-SOFTWARES/spring-framework-5.3.1/libs/spring-aop-5.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/DRIVER-SOFTWARES/spring-framework-5.3.1/libs/spring-aspects-5.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/DRIVER-SOFTWARES/spring-framework-5.3.1/libs/spring-beans-5.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/DRIVER-SOFTWARES/spring-framework-5.3.1/libs/spring-context-5.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/DRIVER-SOFTWARES/spring-framework-5.3.1/libs/spring-context-indexer-5.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/DRIVER-SOFTWARES/spring-framework-5.3.1/libs/spring-context-support-5.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/DRIVER-SOFTWARES/spring-framework-5.3.1/libs/spring-core-5.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/DRIVER-SOFTWARES/spring-framework-5.3.1/libs/spring-expression-5.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/DRIVER-SOFTWARES/spring-framework-5.3.1/libs/spring-instrument-5.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/DRIVER-SOFTWARES/spring-framework-5.3.1/libs/spring-jcl-5.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/DRIVER-SOFTWARES/spring-framework-5.3.1/libs/spring-jdbc-5.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/DRIVER-SOFTWARES/spring-framework-5.3.1/libs/spring-jms-5.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/DRIVER-SOFTWARES/spring-framework-5.3.1/libs/spring-orm-5.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/DRIVER-SOFTWARES/spring-framework-5.3.1/libs/spring-r2dbc-5.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/DRIVER-SOFTWARES/spring-framework-5.3.1/libs/spring-web-5.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/DRIVER-SOFTWARES/spring-framework-5.3.1/libs/spring-webflux-5.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/DRIVER-SOFTWARES/spring-framework-5.3.1/libs/spring-webmvc-5.3.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,12 @@
+body{
+	margin: 0;
+	padding: 0;
+	background:  url(natural.jpg);
+	background-size: cover;
+	background-position: center;
+	font-family: sans-serif;
+}
+.text-center{
+	color :yellow ;
+	font-style: bold;
+}
